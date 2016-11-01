@@ -27,3 +27,11 @@ plot_geo(df, locationmode = 'USA-states') %>%
     geo = g
   )
 ```
+
+# Interactive Map 
+
+This is my attempt at using ploty and trying to make an interactive map 
+
+```
+r map
+```
